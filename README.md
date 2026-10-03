@@ -1,6 +1,9 @@
 PostgreSQL Database Management System
 =====================================
 
+++++++++++ I have added pg_lsclusters in bin location +++++++
+
+
 This directory contains the source code distribution of the PostgreSQL
 database management system.
 
